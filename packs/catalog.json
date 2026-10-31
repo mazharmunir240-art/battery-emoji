@@ -3,6 +3,34 @@
   "baseUrl": "https://raw.githubusercontent.com/mazharmunir240-art/battery-emoji/main/packs/",
   "categories": [
     {
+      "id": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "id": "anime",
+      "name": "Anime"
+    },
+    {
+      "id": "heroes",
+      "name": "Heroes"
+    },
+    {
+      "id": "toons",
+      "name": "Toons"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming"
+    },
+    {
+      "id": "sports",
+      "name": "Sports"
+    },
+    {
+      "id": "spooky",
+      "name": "Spooky"
+    },
+    {
       "id": "animals",
       "name": "Animals"
     },
@@ -40,6 +68,510 @@
     }
   ],
   "emojis": [
+    {
+      "id": "halloween_1_emoji",
+      "name": "Pumpkin Kid",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_2_emoji",
+      "name": "Little Witch",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_3_emoji",
+      "name": "Werewolf Pup",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_4_emoji",
+      "name": "Candy Monster",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_5_emoji",
+      "name": "Happy Cauldron",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_6_emoji",
+      "name": "Haunted House",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_7_emoji",
+      "name": "Bow Spider",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "halloween_8_emoji",
+      "name": "Zombie Bunny",
+      "categoryId": "halloween",
+      "file": "emojis/Halloween/halloween_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_1_emoji",
+      "name": "Ninja Kid",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_2_emoji",
+      "name": "Magical Girl",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_3_emoji",
+      "name": "Samurai Cat",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_4_emoji",
+      "name": "Spirit Fox",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_5_emoji",
+      "name": "Mecha Pilot",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_6_emoji",
+      "name": "Star Idol",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_7_emoji",
+      "name": "Thunder Kid",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "anime_8_emoji",
+      "name": "Kung Fu Panda",
+      "categoryId": "anime",
+      "file": "emojis/Anime/anime_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_1_emoji",
+      "name": "Star Kid",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_2_emoji",
+      "name": "Robo Hero",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_3_emoji",
+      "name": "Hero Cat",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_4_emoji",
+      "name": "Jet Pup",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_5_emoji",
+      "name": "Leaf Hero",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_6_emoji",
+      "name": "Bee Hero",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_7_emoji",
+      "name": "Sun Girl",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "heroes_8_emoji",
+      "name": "Dino Hero",
+      "categoryId": "heroes",
+      "file": "emojis/Heroes/heroes_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_1_emoji",
+      "name": "Jelly Bean",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_2_emoji",
+      "name": "Goofy Pup",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_3_emoji",
+      "name": "Bowtie Bear",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_4_emoji",
+      "name": "Raccoon Rascal",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_5_emoji",
+      "name": "Cap Frog",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_6_emoji",
+      "name": "Chef Pig",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_7_emoji",
+      "name": "DJ Duckling",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "toons_8_emoji",
+      "name": "Hippo Ballerina",
+      "categoryId": "toons",
+      "file": "emojis/Toons/toons_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_1_emoji",
+      "name": "Controller Buddy",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_2_emoji",
+      "name": "Pixel Knight",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_3_emoji",
+      "name": "King Slime",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_4_emoji",
+      "name": "Arcade Bot",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_5_emoji",
+      "name": "Loot Chest",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_6_emoji",
+      "name": "Joystick Joy",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_7_emoji",
+      "name": "Gamer Cat",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "gaming_8_emoji",
+      "name": "VR Bunny",
+      "categoryId": "gaming",
+      "file": "emojis/Gaming/gaming_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_1_emoji",
+      "name": "Football",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_2_emoji",
+      "name": "Cricket Ball",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_3_emoji",
+      "name": "Hoops",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_4_emoji",
+      "name": "Champion Cup",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_5_emoji",
+      "name": "Tennis Ace",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_6_emoji",
+      "name": "Boxing Glove",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_7_emoji",
+      "name": "Sneaker",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "sports_8_emoji",
+      "name": "Gold Medal",
+      "categoryId": "sports",
+      "file": "emojis/Sports/sports_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_1_emoji",
+      "name": "Jack-o-Lantern",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_1_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_2_emoji",
+      "name": "Boo Ghost",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_2_emoji.png",
+      "position": "top",
+      "isPremium": false,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_3_emoji",
+      "name": "Little Bat",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_3_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_4_emoji",
+      "name": "Witch Cat",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_4_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_5_emoji",
+      "name": "Mini Mummy",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_5_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_6_emoji",
+      "name": "Baby Vampire",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_6_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_7_emoji",
+      "name": "Candy Corn",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_7_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
+    {
+      "id": "spooky_8_emoji",
+      "name": "Bone Pup",
+      "categoryId": "spooky",
+      "file": "emojis/Spooky/spooky_8_emoji.png",
+      "position": "top",
+      "isPremium": true,
+      "checksum": "REPLACE_WITH_SHA256"
+    },
     {
       "id": "animal_1_emoji",
       "name": "Panda",
@@ -7351,6 +7883,69 @@
   },
   "backgrounds": [
     {
+      "id": "bg_halloween",
+      "name": "Halloween",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/halloween_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#FFFFFF",
+      "isPremium": false
+    },
+    {
+      "id": "bg_anime",
+      "name": "Anime",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/anime_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#5B2A86",
+      "isPremium": false
+    },
+    {
+      "id": "bg_heroes",
+      "name": "Heroes",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/heroes_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#1E3A8A",
+      "isPremium": false
+    },
+    {
+      "id": "bg_toons",
+      "name": "Toons",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/toons_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#8B2E2E",
+      "isPremium": false
+    },
+    {
+      "id": "bg_gaming",
+      "name": "Gaming",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/gaming_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#FFFFFF",
+      "isPremium": false
+    },
+    {
+      "id": "bg_sports",
+      "name": "Sports",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/sports_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#FFFFFF",
+      "isPremium": false
+    },
+    {
+      "id": "bg_spooky",
+      "name": "Spooky",
+      "categoryId": "aesthetic",
+      "file": "backgrounds/spooky_bg.png",
+      "checksum": "REPLACE_WITH_SHA256",
+      "themeColor": "#FFFFFF",
+      "isPremium": false
+    },
+    {
       "id": "bg_3",
       "name": "Bg 3",
       "categoryId": "aesthetic",
@@ -9361,6 +9956,76 @@
   },
   "combos": [
     {
+      "id": "halloween_1",
+      "name": "Halloween 1",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/1.png",
+      "emojiId": "halloween_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "anime_1",
+      "name": "Anime 1",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/1.png",
+      "emojiId": "anime_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_1",
+      "name": "Heroes 1",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/1.png",
+      "emojiId": "heroes_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_1",
+      "name": "Toons 1",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/1.png",
+      "emojiId": "toons_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_1",
+      "name": "Gaming 1",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/1.png",
+      "emojiId": "gaming_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_1",
+      "name": "Sports 1",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/1.png",
+      "emojiId": "sports_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_1",
+      "name": "Spooky 1",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/1.png",
+      "emojiId": "spooky_1_emoji",
+      "batteryIconId": "sb_1",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
       "id": "animal_1",
       "name": "Animal 1",
       "categoryId": "animals",
@@ -10679,9 +11344,492 @@
       "batteryIconId": "sb_9",
       "isDefault": true,
       "isPremium": false
+    },
+    {
+      "id": "anime_2",
+      "name": "Anime 2",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/2.png",
+      "emojiId": "anime_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "anime_3",
+      "name": "Anime 3",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/3.png",
+      "emojiId": "anime_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "anime_4",
+      "name": "Anime 4",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/4.png",
+      "emojiId": "anime_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "anime_5",
+      "name": "Anime 5",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/5.png",
+      "emojiId": "anime_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "anime_6",
+      "name": "Anime 6",
+      "categoryId": "anime",
+      "previewFile": "combos/Anime/6.png",
+      "emojiId": "anime_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_2",
+      "name": "Heroes 2",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/2.png",
+      "emojiId": "heroes_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_3",
+      "name": "Heroes 3",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/3.png",
+      "emojiId": "heroes_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_4",
+      "name": "Heroes 4",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/4.png",
+      "emojiId": "heroes_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_5",
+      "name": "Heroes 5",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/5.png",
+      "emojiId": "heroes_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "heroes_6",
+      "name": "Heroes 6",
+      "categoryId": "heroes",
+      "previewFile": "combos/Heroes/6.png",
+      "emojiId": "heroes_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_2",
+      "name": "Toons 2",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/2.png",
+      "emojiId": "toons_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_3",
+      "name": "Toons 3",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/3.png",
+      "emojiId": "toons_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_4",
+      "name": "Toons 4",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/4.png",
+      "emojiId": "toons_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_5",
+      "name": "Toons 5",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/5.png",
+      "emojiId": "toons_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "toons_6",
+      "name": "Toons 6",
+      "categoryId": "toons",
+      "previewFile": "combos/Toons/6.png",
+      "emojiId": "toons_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_2",
+      "name": "Gaming 2",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/2.png",
+      "emojiId": "gaming_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_3",
+      "name": "Gaming 3",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/3.png",
+      "emojiId": "gaming_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_4",
+      "name": "Gaming 4",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/4.png",
+      "emojiId": "gaming_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_5",
+      "name": "Gaming 5",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/5.png",
+      "emojiId": "gaming_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "gaming_6",
+      "name": "Gaming 6",
+      "categoryId": "gaming",
+      "previewFile": "combos/Gaming/6.png",
+      "emojiId": "gaming_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_2",
+      "name": "Sports 2",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/2.png",
+      "emojiId": "sports_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_3",
+      "name": "Sports 3",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/3.png",
+      "emojiId": "sports_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_4",
+      "name": "Sports 4",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/4.png",
+      "emojiId": "sports_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_5",
+      "name": "Sports 5",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/5.png",
+      "emojiId": "sports_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "sports_6",
+      "name": "Sports 6",
+      "categoryId": "sports",
+      "previewFile": "combos/Sports/6.png",
+      "emojiId": "sports_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_2",
+      "name": "Spooky 2",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/2.png",
+      "emojiId": "spooky_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_3",
+      "name": "Spooky 3",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/3.png",
+      "emojiId": "spooky_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_4",
+      "name": "Spooky 4",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/4.png",
+      "emojiId": "spooky_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_5",
+      "name": "Spooky 5",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/5.png",
+      "emojiId": "spooky_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "spooky_6",
+      "name": "Spooky 6",
+      "categoryId": "spooky",
+      "previewFile": "combos/Spooky/6.png",
+      "emojiId": "spooky_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "halloween_2",
+      "name": "Halloween 2",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/2.png",
+      "emojiId": "halloween_2_emoji",
+      "batteryIconId": "sb_2",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "halloween_3",
+      "name": "Halloween 3",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/3.png",
+      "emojiId": "halloween_3_emoji",
+      "batteryIconId": "sb_3",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "halloween_4",
+      "name": "Halloween 4",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/4.png",
+      "emojiId": "halloween_4_emoji",
+      "batteryIconId": "sb_4",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "halloween_5",
+      "name": "Halloween 5",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/5.png",
+      "emojiId": "halloween_5_emoji",
+      "batteryIconId": "sb_5",
+      "isDefault": true,
+      "isPremium": false
+    },
+    {
+      "id": "halloween_6",
+      "name": "Halloween 6",
+      "categoryId": "halloween",
+      "previewFile": "combos/Halloween/6.png",
+      "emojiId": "halloween_6_emoji",
+      "batteryIconId": "sb_6",
+      "isDefault": true,
+      "isPremium": false
     }
   ],
   "templates": [
+    {
+      "id": "template_halloween",
+      "name": "Halloween Theme",
+      "categoryId": "halloween",
+      "previewFile": "template_previews/template_halloween.png",
+      "emoji_id": "halloween_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_halloween",
+      "themeColor": "#FFFFFF",
+      "timeFont": "fascinate_regular",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_anime",
+      "name": "Anime Theme",
+      "categoryId": "anime",
+      "previewFile": "template_previews/template_anime.png",
+      "emoji_id": "anime_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_anime",
+      "themeColor": "#5B2A86",
+      "timeFont": "fredoka_bold",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_heroes",
+      "name": "Heroes Theme",
+      "categoryId": "heroes",
+      "previewFile": "template_previews/template_heroes.png",
+      "emoji_id": "heroes_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_heroes",
+      "themeColor": "#1E3A8A",
+      "timeFont": "bungee_regular",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_toons",
+      "name": "Toons Theme",
+      "categoryId": "toons",
+      "previewFile": "template_previews/template_toons.png",
+      "emoji_id": "toons_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_toons",
+      "themeColor": "#8B2E2E",
+      "timeFont": "poetsenone_regular",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_gaming",
+      "name": "Gaming Theme",
+      "categoryId": "gaming",
+      "previewFile": "template_previews/template_gaming.png",
+      "emoji_id": "gaming_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_gaming",
+      "themeColor": "#FFFFFF",
+      "timeFont": "pressstart2p_regular",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_sports",
+      "name": "Sports Theme",
+      "categoryId": "sports",
+      "previewFile": "template_previews/template_sports.png",
+      "emoji_id": "sports_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_sports",
+      "themeColor": "#FFFFFF",
+      "timeFont": "baloo2_bold",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
+    {
+      "id": "template_spooky",
+      "name": "Spooky Theme",
+      "categoryId": "spooky",
+      "previewFile": "template_previews/template_spooky.png",
+      "emoji_id": "spooky_1_emoji",
+      "battery_id": "sb_1",
+      "backgroundId": "bg_spooky",
+      "themeColor": "#FFFFFF",
+      "timeFont": "fascinate_regular",
+      "wifiIconId": "wifi_1",
+      "signalIconId": "signal_1",
+      "airplaneIconId": "plane_1",
+      "ringerIconId": "ringer_1",
+      "hotspotIconId": "hotspot_1",
+      "chargingIconId": "charging_1",
+      "isDefault": false,
+      "isPremium": true
+    },
     {
       "id": "template_3",
       "name": "Template 3",
